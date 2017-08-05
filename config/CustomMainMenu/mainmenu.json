@@ -1,0 +1,209 @@
+{
+    "images":
+    {
+		
+		
+		"logo":
+        {
+            "image" : "custommainmenu:textures/uncloudedlogo.png",
+            "posX" : -208,
+            "posY" : 30,
+            "width" : 500,
+            "height" : 500,
+            "alignment" : "top_center"
+        }
+	
+	},
+    
+    "buttons":
+    {     
+		"singleplayer":
+        {
+            "text" : "menu.singleplayer",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 14103039,
+			"texture" : "custommainmenu:textures/btn.png",
+            "posX" : -47,
+            "posY" : 130,
+            "width" : 95,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "top_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },		
+
+		"multiplayer":
+        {
+            "text" : "menu.multiplayer",			
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 14103039,
+			"texture" : "custommainmenu:textures/btn.png",
+            "posX" : -47,
+            "posY" : 150,
+            "width" : 95,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "top_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+               
+		"options":
+        {
+            "text" : "menu.options",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 14103039,
+			"texture" : "custommainmenu:textures/btn.png",
+            "posX" : -47,
+            "posY" : 170,
+            "width" : 95,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "top_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+                    
+        "quit":
+        {
+            "text" : "menu.quit",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 16724313,
+			"texture" : "custommainmenu:textures/btn.png",
+            "posX" : -47,
+            "posY" : -60,
+            "width" : 95,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "bottom_center",
+			"hoverText" : "Don't you dare!",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "Mods (#modsactive#)",
+			"normalTextColor" : 12303291,
+			"hoverTextColor" : 14103039,
+			"tooltip" : "#modsactive#/#modsloaded# mods active!",
+			"texture" : "custommainmenu:textures/btn.png",
+            "posX" : -47,
+            "posY" : -30,
+            "width" : 95,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "bottom_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+		
+		"changelog":
+        {
+            "text" : "",
+            "posX" : -37,
+            "posY" : -37,
+            "width" : 11,
+            "height" : 11,
+			"alignment" : "bottom_right",
+			"tooltip" : "Changelog",
+			"texture" : "custommainmenu:textures/icons/changelog.png",
+            "action" : {
+                "type" : "openLink",
+				        "link" : "https://www.reddit.com/r/MinecraftUnabridged/comments/5tnm8q/unabridged_r14_the_getting_things_dialed_in/"
+            }
+        },
+		
+		
+		"language":
+        {
+            "text" : "",
+            "posX" : -37,
+            "posY" : -22,
+            "width" : 11,
+            "height" : 11,
+			"alignment" : "bottom_right",
+			"tooltip" : "Language",
+			"texture" : "custommainmenu:textures/icons/globe.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+		
+		"Github":
+        {
+            "text" : "",
+			"texture" : "custommainmenu:textures/icons/github.png",
+			"tooltip" : "Github",
+			"alignment" : "bottom_center",
+            "posX" : -80,
+            "posY" : -30,
+            "width" : 30,
+            "height" : 20,
+			"action" :
+			{
+                "type" : "openLink",
+				"link" : "https://www.github.com/elytra/Unclouded/issues"
+            }
+        },
+
+		"Reddit":
+        {
+            "text" : "",
+			"texture" : "custommainmenu:textures/icons/reddit.png",
+			"tooltip" : "Reddit",
+			"alignment" : "bottom_center",
+            "posX" : 50,
+            "posY" : -30,
+            "width" : 30,
+            "height" : 20,
+			"action" :
+			{
+                "type" : "openLink",
+				"link" : "http://www.reddit.com/r/Unclouded"
+            }	
+        }
+    },
+	
+    "texts":
+    {
+        "version":
+        {
+            "text" : "R.1",
+            "posX" : 0,
+            "posY" : 0,
+            "color" : 16724416,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+		"background":
+        {
+            "image" : "custommainmenu:textures/uncloudedstarfield.png"
+        }
+    }
+}
