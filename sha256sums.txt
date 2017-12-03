@@ -107,6 +107,7 @@ d10c94601aacd2419e4ebc2aa1e30eec7c1a6ea2ae56407494bf97ea189e0475  src/mods/1.12.
 b37c0b2336ba3ee0f03ddeb9d769889bf44c1755aed89f732d503912b8ba01bd  src/mods/1.12.2/antiqueatlas-1.12-4.4.4.jar
 19ee205cd1e8cda49ec71b3eb0f06b90e32c6c4a225aa6ff2ebf5d6ce5c59a4e  src/mods/1.12.2/architecturecraft-1.12-2.61.jar
 ab1db7c612558341a4889362d93d174bec3a708c29bc0a90f048bb669e8833b8  src/mods/1.12.2/astralsorcery-1.12.2-1.8.2.jar
+77b90f5dbbeb93c913efccae8fc70dba11c04a222b1ab3c95d7d0a400f595b47  src/mods/1.12.2/base-1.12-3.4.2.jar
 ab31ba04a88b84bfc5dd27e915739103da29ebf82920f5c833381d1d235de2bc  src/mods/1.12.2/binnie-mods-1.12.2-2.5.0.105.jar
 a2af37a0f6a98dfffcd36cda18648fa83d664fb8c2354acd80b42fe983b2ad51  src/mods/1.12.2/chiselsandbits-14.10.jar
 0bbc5dca54263c74925a7ed426a68906bfaa5c9763e43e12c1c818aa974d8d60  src/mods/1.12.2/comforts-1.12.2-1.1.0.jar
