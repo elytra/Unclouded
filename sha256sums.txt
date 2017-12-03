@@ -101,6 +101,7 @@ d10c94601aacd2419e4ebc2aa1e30eec7c1a6ea2ae56407494bf97ea189e0475  src/mods/1.12.
 1e54fa796d0589f6b69208d91e6ff60fffaad118bc8fb155d0e711f9cd70a628  src/mods/1.12.2/_CLIENT/antighost-1.12-forge14.21.1.2387-1.1.jar
 642af81dac5650e65d10255332235c5a057a2e6b68fd558941bbe25187f0ddd0  src/mods/1.12.2/_CLIENT/keywizard-1.12.2-1.5.3-b1.jar
 69403cde5c8827c7ac73e993029de98d89c39fc5e1807ae308ae8e80bd50b0cb  src/mods/1.12.2/_CLIENT/visualize-2.0.1.jar
+75476c79981529b7efcff85d1b1afa1d84fc82db066acd92fafb478dbeb48610  src/mods/1.12.2/_SERVER/BTFU-1.12-2.3.jar
 b37c0b2336ba3ee0f03ddeb9d769889bf44c1755aed89f732d503912b8ba01bd  src/mods/1.12.2/antiqueatlas-1.12-4.4.4.jar
 19ee205cd1e8cda49ec71b3eb0f06b90e32c6c4a225aa6ff2ebf5d6ce5c59a4e  src/mods/1.12.2/architecturecraft-1.12-2.61.jar
 ab1db7c612558341a4889362d93d174bec3a708c29bc0a90f048bb669e8833b8  src/mods/1.12.2/astralsorcery-1.12.2-1.8.2.jar
