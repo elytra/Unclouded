@@ -1,1 +1,0 @@
-https://ci.elytradev.com/job/elytra/job/FruitPhone/job/1.12/lastSuccessfulBuild/artifact/build/libs/FruitPhone-1.12-2.77.jar
