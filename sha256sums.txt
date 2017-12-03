@@ -42,6 +42,7 @@ dce7c8e8fe780a6e36d5a11e937121ef4c35f2299c90a1c0e6c2ab448ef2359d  src/mods/1.12.
 9f1ba4dd157bbeedf82ca0fca6333e6f244e83d5c92ca7354951ced38678a3e6  src/mods/1.12.2/InitialInventory-3.0.0.jar
 137ffe97329703811be8311fef4dcabc7a7850b399e38c04fecd7c0d10a8d4cd  src/mods/1.12.2/IntegratedDynamics-1.12.2-0.9.6.jar
 7123866c3f64b2e4ff53239f60cffa8af46a716b4e11f715f58b4e92015b1a25  src/mods/1.12.2/IntegrationForegoing-1.12-1.3.1.jar
+af891c52fcbd98299f7f77fc2d0cf314dcbbcb7c74e992aa89b6b6a2c1804e9b  src/mods/1.12.2/Iridescent-1.12.2-1.3.jar
 ffb745111790e27cb7810a2e03d5270265dee7ebd3ef98fde897c409d58b1e59  src/mods/1.12.2/IvToolkit-1.3.3-1.12.jar
 8358e6fdab8e22bb7e7b07338adc5c9bd4523b1d5638e790e69f7911ee8fed7a  src/mods/1.12.2/MCMultiPart-2.3.3.jar
 50d3bae396105e80f70ce3a85f2e556fac5fc01c1249a8435e8e0e231be61c84  src/mods/1.12.2/MTLib-3.0.1.jar
