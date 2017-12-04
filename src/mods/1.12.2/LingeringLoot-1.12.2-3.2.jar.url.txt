@@ -1,0 +1,1 @@
+https://ci.elytradev.com/job/elytra/job/LingeringLoot/job/master/42/artifact/build/libs/LingeringLoot-1.12.2-3.2.jar
