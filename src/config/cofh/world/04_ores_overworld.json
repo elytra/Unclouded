@@ -13,7 +13,7 @@
 				"cluster-size": 1000
 						},
 			"cluster-count": 3,
-			"chunk-chance": 1,
+			"chunk-chance": 200,
 			"min-height": 0,
 			"max-height": 256,
 			"retrogen": "true",
@@ -41,7 +41,7 @@
 				"cluster-size": 300
 						},
 			"cluster-count": 4,
-			"chunk-chance": 2,
+			"chunk-chance": 150,
 			"min-height": 40,
 			"max-height": 128,
 			"retrogen": "true",
@@ -68,7 +68,7 @@
 				"cluster-size": 200
 						},
 			"cluster-count": 1,
-			"chunk-chance": 1,
+			"chunk-chance": 200,
 			"min-height": 0,
 			"max-height": 32,
 			"retrogen": "true",
@@ -96,7 +96,7 @@
 				"cluster-size": 200
 						},
 			"cluster-count": 1,
-			"chunk-chance": 2,
+			"chunk-chance": 100,
 			"min-height": 0,
 			"max-height": 32,
 			"retrogen": "true",
@@ -122,7 +122,7 @@
 				"cluster-size": 100
 						},
 			"cluster-count": 1,
-			"chunk-chance": 1,
+			"chunk-chance": 200,
 			"min-height": 48,
 			"max-height": 256,
 			"retrogen": "true",
@@ -148,7 +148,7 @@
 				"cluster-size": 100
 						},
 			"cluster-count": 1,
-			"chunk-chance": 1,
+			"chunk-chance": 200,
 			"min-height": 40,
 			"max-height": 56,
 			"retrogen": "true",
@@ -176,7 +176,7 @@
 				"cluster-size": 400
 						},
 			"cluster-count": 2,
-			"chunk-chance": 3,
+			"chunk-chance": 125,
 			"min-height": 0,
 			"max-height": 256,
 			"retrogen": "true",
@@ -203,7 +203,7 @@
 				"cluster-size": 400
 						},
 			"cluster-count": 1,
-			"chunk-chance": 2,
+			"chunk-chance": 150,
 			"min-height": 0,
 			"max-height": 64,
 			"retrogen": "true",
@@ -230,7 +230,7 @@
 				"cluster-size": 400
 						},
 			"cluster-count": 2,
-			"chunk-chance": 1,
+			"chunk-chance": 200,
 			"min-height": 0,
 			"max-height": 48,
 			"retrogen": "true",
@@ -257,7 +257,7 @@
 				"cluster-size": 400
 						},
 			"cluster-count": 2,
-			"chunk-chance": 2,
+			"chunk-chance": 150,
 			"min-height": 0,
 			"max-height": 32,
 			"retrogen": "true",
@@ -285,7 +285,7 @@
 				"cluster-size": 400
 						},
 			"cluster-count": 2,
-			"chunk-chance": 1,
+			"chunk-chance": 200,
 			"min-height": 48,
 			"max-height": 64,
 			"retrogen": "true",
@@ -313,7 +313,7 @@
 				"cluster-size": 200
 						},
 			"cluster-count": 1,
-			"chunk-chance": 1,
+			"chunk-chance": 200,
 			"min-height": 0,
 			"max-height": 48,
 			"retrogen": "true",
@@ -340,7 +340,7 @@
 				"cluster-size": 150
 						},
 			"cluster-count": 2,
-			"chunk-chance": 2,
+			"chunk-chance": 150,
 			"min-height": 0,
 			"max-height": 48,
 			"retrogen": "true",
@@ -367,7 +367,7 @@
 				"cluster-size": 150
 						},
 			"cluster-count": 2,
-			"chunk-chance": 3,
+			"chunk-chance": 85,
 			"min-height": 24,
 			"max-height": 48,
 			"retrogen": "true",
@@ -395,7 +395,7 @@
 				"cluster-size": 500
 						},
 			"cluster-count": 4,
-			"chunk-chance": 4,
+			"chunk-chance": 100,
 			"min-height": 64,
 			"max-height": 256,
 			"retrogen": "true",
@@ -423,7 +423,7 @@
 				"cluster-size": 1000
 						},
 			"cluster-count": 2,
-			"chunk-chance": 4,
+			"chunk-chance": 100,
 			"min-height": 0,
 			"max-height": 32,
 			"retrogen": "true",
@@ -450,7 +450,7 @@
 				"cluster-size": 120
 						},
 			"cluster-count": 3,
-			"chunk-chance": 8,
+			"chunk-chance": 60,
 			"min-height": 0,
 			"max-height": 64,
 			"retrogen": "true",
@@ -479,7 +479,7 @@
 				"cluster-size": 100
 						},
 			"cluster-count": 1,
-			"chunk-chance": 1,
+			"chunk-chance": 250,
 			"min-height": 0,
 			"max-height": 12,
 			"retrogen": "true",
@@ -505,7 +505,7 @@
 				"cluster-size": 200
 						},
 			"cluster-count": 4,
-			"chunk-chance": 1,
+			"chunk-chance": 65,
 			"min-height": 0,
 			"max-height": 256,
 			"retrogen": "true",
@@ -545,7 +545,7 @@
 				"cluster-size": 100
 						},
 			"cluster-count": 2,
-			"chunk-chance": 5,
+			"chunk-chance": 100,
 			"min-height": 0,
 			"max-height": 5,
 			"retrogen": "true",
@@ -573,7 +573,7 @@
 				"cluster-size": 100
 						},
 			"cluster-count": 1,
-			"chunk-chance": 15,
+			"chunk-chance": 85,
 			"min-height": 0,
 			"max-height": 64,
 			"retrogen": "true",
@@ -612,7 +612,7 @@
 				"cluster-size": 100
 						},
 			"cluster-count": 1,
-			"chunk-chance": 10,
+			"chunk-chance": 60,
 			"min-height": 0,
 			"max-height": 32,
 			"retrogen": "true",
@@ -650,7 +650,7 @@
 				"cluster-size": 66
 						},
 			"cluster-count": 6,
-			"chunk-chance": 8,
+			"chunk-chance": 150,
 			"min-height": 6,
 			"max-height": 66,
 			"retrogen": "true",
@@ -677,7 +677,7 @@
 				"cluster-size": 200
 						},
 			"cluster-count": 2,
-			"chunk-chance": 1,
+			"chunk-chance": 300,
 			"min-height": 0,
 			"max-height": 256,
 			"retrogen": "true",
@@ -704,7 +704,7 @@
 				"cluster-size": 200
 						},
 			"cluster-count": 2,
-			"chunk-chance": 8,
+			"chunk-chance": 300,
 			"min-height": 0,
 			"max-height": 256,
 			"retrogen": "true",
@@ -745,7 +745,7 @@
 				"cluster-size": 100
 						},
 			"cluster-count": 1,
-			"chunk-chance": 4,
+			"chunk-chance": 150,
 			"min-height": 0,
 			"max-height": 256,
 			"retrogen": "true",
@@ -774,7 +774,7 @@
 				"cluster-size": 100
 						},
 			"cluster-count": 1,
-			"chunk-chance": 4,
+			"chunk-chance": 150,
 			"min-height": 0,
 			"max-height": 256,
 			"retrogen": "true",
@@ -801,7 +801,7 @@
 				"cluster-size": 100
 						},
 			"cluster-count": 1,
-			"chunk-chance": 4,
+			"chunk-chance": 150,
 			"min-height": 0,
 			"max-height": 256,
 			"retrogen": "true",
@@ -828,7 +828,7 @@
 				"cluster-size": 100
 						},
 			"cluster-count": 1,
-			"chunk-chance": 4,
+			"chunk-chance": 150,
 			"min-height": 0,
 			"max-height": 256,
 			"retrogen": "true",
@@ -855,7 +855,7 @@
 				"cluster-size": 100
 						},
 			"cluster-count": 1,
-			"chunk-chance": 4,
+			"chunk-chance": 150,
 			"min-height": 0,
 			"max-height": 256,
 			"retrogen": "true",
@@ -882,7 +882,7 @@
 				"cluster-size": 100
 						},
 			"cluster-count": 1,
-			"chunk-chance": 4,
+			"chunk-chance": 150,
 			"min-height": 0,
 			"max-height": 256,
 			"retrogen": "true",
@@ -910,7 +910,7 @@
 				"cluster-size": 100
 						},
 			"cluster-count": 1,
-			"chunk-chance": 4,
+			"chunk-chance": 150,
 			"min-height": 0,
 			"max-height": 256,
 			"retrogen": "true",
@@ -938,7 +938,7 @@
 				"cluster-size": 100
 						},
 			"cluster-count": 2,
-			"chunk-chance": 3,
+			"chunk-chance": 150,
 			"min-height": 0,
 			"max-height": 256,
 			"retrogen": "true",
@@ -965,7 +965,7 @@
 				"cluster-size": 250
 						},
 			"cluster-count": 4,
-			"chunk-chance": 2,
+			"chunk-chance": 100,
 			"min-height": 0,
 			"max-height": 48,
 			"retrogen": "true",
