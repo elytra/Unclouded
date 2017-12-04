@@ -1,1 +1,1 @@
-https://ci.elytradev.com/job/elytra/job/Teckle/job/1.12/lastSuccessfulBuild/artifact/build/libs/Teckle-1.12-5.421.jar
+https://ci.elytradev.com/job/elytra/job/Teckle/job/1.12/132/artifact/build/libs/Teckle-1.12-5.421.jar
