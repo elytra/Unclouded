@@ -104,6 +104,7 @@ eaf575902e7327220d9b2725f53c3b26c1e8bbea53a7cc42e748a46675607709  src/mods/1.12.
 d10c94601aacd2419e4ebc2aa1e30eec7c1a6ea2ae56407494bf97ea189e0475  src/mods/1.12.2/_CLIENT/CustomMainMenu-MC1.12.2-2.0.8.jar
 379db0dce6770ca1567f3c42f7227dafdc55f1c16c481009c76228f2a2ec4d3b  src/mods/1.12.2/_CLIENT/Login_Shield-1.12.2-1-g24c2a5e.jar
 78d039800c59f4b95f68934f3a4e50f51bb2e9d1d7498eb472db441034a04af9  src/mods/1.12.2/_CLIENT/Notes-1.12-1.1.1.jar
+265fd38c03c5a835676eca5a34b32db65737f13dc14a03930cace03dca28b126  src/mods/1.12.2/_CLIENT/ReAuth-3.5.2.jar
 5c5ee114dccab5caca1772e3487eca04e161c494baca4d53c8fddf5cf8722e56  src/mods/1.12.2/_CLIENT/ResourceLoader-MC1.12.1-1.5.3.jar
 1e54fa796d0589f6b69208d91e6ff60fffaad118bc8fb155d0e711f9cd70a628  src/mods/1.12.2/_CLIENT/antighost-1.12-forge14.21.1.2387-1.1.jar
 2e1d89e1a0b70703fbed751bc9a1a918ea007ad3b53363d72c4e6be487cc9f6b  src/mods/1.12.2/_CLIENT/itemscroller-1.12.0-0.11.0.jar
