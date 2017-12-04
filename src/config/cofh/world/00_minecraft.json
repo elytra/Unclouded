@@ -121,7 +121,7 @@
 			}
 		},
 
-		"coal": {
+		"coal_standard": {
 			"distribution": "uniform",
 			"generator": {
 				"block": "coal_ore",
@@ -142,7 +142,7 @@
 			}
 		},
 
-		"iron": {
+		"iron_standard": {
 			"distribution": "uniform",
 			"generator": {
 				"block": "iron_ore",
@@ -163,7 +163,7 @@
 			}
 		},
 
-		"gold": {
+		"gold_standard": {
 			"distribution": "uniform",
 			"generator": {
 				"block": "gold_ore",
@@ -184,7 +184,7 @@
 			}
 		},
 
-		"redstone": {
+		"redstone_standard": {
 			"distribution": "uniform",
 			"generator": {
 				"block": "redstone_ore",
@@ -205,7 +205,7 @@
 			}
 		},
 
-		"diamond": {
+		"diamond_standard": {
 			"distribution": "uniform",
 			"generator": {
 				"block": "diamond_ore",
@@ -226,7 +226,7 @@
 			}
 		},
 
-		"lapis": {
+		"lapis_standard": {
 			"distribution": "gaussian",
 			"generator": {
 				"block": "lapis_ore",
@@ -286,7 +286,7 @@
 			}
 		},
 
-		"emerald": {
+		"emerald_standard": {
 			"distribution": "uniform",
 			"generator": {
 				"block": {

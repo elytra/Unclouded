@@ -1,7 +1,7 @@
 {
 	"dependencies": "thermalfoundation",
 	"populate": {
-		"copper": {
+		"copper_standard": {
 			"distribution": "uniform",
 			"generator": {
 				"block": "thermalfoundation:ore",
@@ -21,7 +21,7 @@
 				]
 			}
 		},
-		"tin": {
+		"tin_standard": {
 			"distribution": "uniform",
 			"generator": {
 				"block": {
@@ -44,7 +44,7 @@
 				]
 			}
 		},
-		"silver": {
+		"silver_standard": {
 			"distribution": "uniform",
 			"generator": {
 				"block": [
@@ -75,7 +75,7 @@
 				]
 			}
 		},
-		"lead": {
+		"lead_standard": {
 			"distribution": "uniform",
 			"generator": {
 				"block": [
@@ -106,7 +106,7 @@
 				]
 			}
 		},
-		"nickel": {
+		"nickel_standard": {
 			"distribution": "uniform",
 			"generator": {
 				"block": {
