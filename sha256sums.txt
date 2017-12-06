@@ -25,7 +25,6 @@ ac4cbeb07b2cf3833680485569b98c199b97936257c0cf9398daf2eec6f7e6f3  src/mods/1.12.
 f952c801464266e88f51da58934ebafaa2a4efd27632a026d7e11d4a8972617b  src/mods/1.12.2/CraftTweaker2-1.12-4.0.10.jar
 fe4318a6d507a140ee8ebffa255a5fc39046d3107bcea4dfeb97207435ca5c5f  src/mods/1.12.2/CyclopsCore-1.12.2-0.10.23.jar
 520aa49d641b5e8e30de685670e852f8c2b1db841a02cfb7774d196a2a3d1baa  src/mods/1.12.2/DoggyTalents-1.12-1.14.2.311-universal.jar
-9e78a0d808db5d9b7ce79f72ba035fd429d24378e12e6b3f34dce8f89a6854c9  src/mods/1.12.2/DynamicSurroundings-1.12.2-3.4.7.2.jar
 491e471ac0f52144b29155cc5d94ba6ef8271a03c8095225ccc34f7ec86f24ee  src/mods/1.12.2/Earthworks-1.12-1.3.6.jar
 ca7fbe9f3ac2402e88ea4dcc042b70b37c2db5b7ff19940d8692b09bd07f2321  src/mods/1.12.2/ElevatorMod-1.12.2-1.3.5.jar
 cc3cf224a420977bddd6edb7282831a09266d1ad0ebf737b6db9c3d402f4a916  src/mods/1.12.2/EvilCraft-1.12.2-0.10.40.jar
@@ -103,6 +102,7 @@ eaf575902e7327220d9b2725f53c3b26c1e8bbea53a7cc42e748a46675607709  src/mods/1.12.
 626cfe220837110c0795e31463181b36d1c5b873ae4e7527907f00f7211d4449  src/mods/1.12.2/_CLIENT/CTM-MC1.12-0.2.3.9.jar
 7550a6e7fcba55ef375905983e16c118cf2e3394b88f55326389d89fd257552e  src/mods/1.12.2/_CLIENT/Calculations-1.12-1.1.0.jar
 d10c94601aacd2419e4ebc2aa1e30eec7c1a6ea2ae56407494bf97ea189e0475  src/mods/1.12.2/_CLIENT/CustomMainMenu-MC1.12.2-2.0.8.jar
+9e78a0d808db5d9b7ce79f72ba035fd429d24378e12e6b3f34dce8f89a6854c9  src/mods/1.12.2/_CLIENT/DynamicSurroundings-1.12.2-3.4.7.2.jar
 379db0dce6770ca1567f3c42f7227dafdc55f1c16c481009c76228f2a2ec4d3b  src/mods/1.12.2/_CLIENT/Login_Shield-1.12.2-1-g24c2a5e.jar
 78d039800c59f4b95f68934f3a4e50f51bb2e9d1d7498eb472db441034a04af9  src/mods/1.12.2/_CLIENT/Notes-1.12-1.1.1.jar
 265fd38c03c5a835676eca5a34b32db65737f13dc14a03930cace03dca28b126  src/mods/1.12.2/_CLIENT/ReAuth-3.5.2.jar
