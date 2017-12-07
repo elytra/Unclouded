@@ -1,0 +1,1 @@
+https://ci.elytradev.com/job/CharsetMC/job/Charset/job/1.12/83/artifact/build/libs/Charset-0.5.0.83.jar
