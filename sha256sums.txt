@@ -54,6 +54,7 @@ ffb745111790e27cb7810a2e03d5270265dee7ebd3ef98fde897c409d58b1e59  src/mods/1.12.
 c9afccc09d957914c0b5ac9f01ca77acfbe18de6b02d1270337b707100ced6e4  src/mods/1.12.2/ModernLights-1.0.3_1.12.jar
 3c29cb3c926f411011d9b9ef15faa4bca2c04d46ff5e37d8d4feec77e7d36918  src/mods/1.12.2/Morph-o-Tool-1.2-16.jar
 e7e9ede729e05da7b59039332fe569f246e54a06f7b7d118e7aa24cb4fa44451  src/mods/1.12.2/NaturesCompass-1.12.2-1.5.0.jar
+ce23edcffc45ca87baa853bd4bc511765cbf6f1d77fb1c2eb0521b28c74f1ca7  src/mods/1.12.2/NoMoreRecipeConflict-0.9(1.12).jar
 3c56394b0605958e1a0080c1e0574074febe29349a627e19cae381f2a44a2d7b  src/mods/1.12.2/Nutrition-1.12.2-2.6.0.jar
 f2c8045b82b15019daf970bde833d555e35de990964e22e0b84001188ab2ff5d  src/mods/1.12.2/OpenGlider-1.12.1-1.1.0.jar
 f1c7b0a6764fa8b3e5257e43a0c37868b6dfe6c0d308b5ca14a7e6edfeec0a4f  src/mods/1.12.2/Pam's HarvestCraft 1.12.2a.jar
