@@ -88,7 +88,7 @@ a2c33050a433e2f2406cd3e75b909dc4a4d0c9edd503f89f871335ef24c4dc6a  src/mods/1.12.
 c2f52aa15debd35286ddc5d298a5084f767cdf09ddff12113b7e024a66567324  src/mods/1.12.2/ThermalDynamics-1.12.2-2.3.7.14-universal.jar
 4486d9fe75b8235c183e5e0de3e1b08768dce4aa634b528427816e6e9e27a6a7  src/mods/1.12.2/ThermalExpansion-1.12.2-5.3.7.29-universal.jar
 83a37de000a97707d5275791b1b8ecf929e8d0440df86fb3015446454be8070a  src/mods/1.12.2/ThermalFoundation-1.12.2-2.3.7.18-universal.jar
-bb26cecbae69e0c461e2a0a22fadf2ec70d45d521ce337dc758ac45ebce41401  src/mods/1.12.2/TinkeredConstructor-1.12-2.8.1.DEV.c6861d255.jar
+0ee91ffdf6d66e162ae14d14a5a4b18cb46b2be098ab8d6ad3e7992a4b003d87  src/mods/1.12.2/TinkeredConstructor-1.12-2.8.1.DEV.1b7b03e6a.jar
 487c6e83547d4c43ddcae7b0a469a871d37b2d173c9e14180979ed4f966edb3c  src/mods/1.12.2/Traverse-1.12.1-1.3.1.jar
 18cdc983b507b8535581c4abbc36602198115571b038bd1168644c8afd5abe86  src/mods/1.12.2/UniDict-1.12.2-1.4.jar
 79e1c982cad6c6ce4b5e1a9e5e58c9eb167d3aa6979df6d15618b773777f41f8  src/mods/1.12.2/UnlimitedChiselWorks-0.1.8.jar
