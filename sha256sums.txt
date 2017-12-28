@@ -16,7 +16,7 @@ daca4a9f236cb7a2bbc2c5f88e4039327e6e02f146d46f2fb46ac79a761c3314  src/mods/1.12.
 69403cde5c8827c7ac73e993029de98d89c39fc5e1807ae308ae8e80bd50b0cb  src/mods/1.12.2/_CLIENT/visualize-2.0.1.jar
 75476c79981529b7efcff85d1b1afa1d84fc82db066acd92fafb478dbeb48610  src/mods/1.12.2/_SERVER/BTFU-1.12-2.3.jar
 29de7c30b54b47e8f7ee30d737a12958fe144385d05bf796ea38753e8035ae0c  src/mods/1.12.2/AbyssalCraft Integration-1.12.2-1.6.2.jar
-a7593c9eafde7e90a5f1cf3fccbb1331347980fd8bcc342e87f8d0d31a8c3b22  src/mods/1.12.2/AbyssalCraft-1.12.2-1.9.4.2.jar
+7912799711c46f557f2e1b56dfa91a934354b939677c9b3e70b74fb209204942  src/mods/1.12.2/AbyssalCraft-1.12.2-1.9.4.3.jar
 9befc78da8aeec3d40b4c90cd4e376e5b640b906c1b92199ed93c1c69276b999  src/mods/1.12.2/AkashicTome-1.2-10.jar
 b37c0b2336ba3ee0f03ddeb9d769889bf44c1755aed89f732d503912b8ba01bd  src/mods/1.12.2/antiqueatlas-1.12-4.4.4.jar
 9bff732c18adf82c4410a827b35d43b68b979f9ede6c2108b6b97550cf386188  src/mods/1.12.2/AppleSkin-mc1.12-1.0.9.jar
