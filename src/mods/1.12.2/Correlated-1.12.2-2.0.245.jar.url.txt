@@ -1,1 +1,0 @@
-https://ci.elytradev.com/job/elytra/job/Correlated/job/1.12.2/5/artifact/build/libs/Correlated-1.12.2-2.0.245.jar

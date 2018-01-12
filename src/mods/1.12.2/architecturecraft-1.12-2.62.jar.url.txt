@@ -1,0 +1,1 @@
+https://ci.elytradev.com/job/elytra/job/ArchitectureCraft/job/1.12/57/artifact/build/libs/architecturecraft-1.12-2.62.jar
