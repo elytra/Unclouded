@@ -1,0 +1,1 @@
+https://ci.elytradev.com/job/elytra/job/GlassHearts/job/1.12.1/8/artifact/build/libs/GlassHearts-1.12.1-1.0.69.jar
